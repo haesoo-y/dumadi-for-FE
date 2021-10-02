@@ -16,11 +16,11 @@
 
 ### FE
 
-- [HTML]()
-- [CSS]()
-- [JS]()
-- [etc.]()
+- [HTML](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/html.md)
+- [CSS](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/css.md)
+- [JS](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/js.md)
+- [etc.](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/etc.md)
 
 ### CS
 
-- [Network]()
+- [Network](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/network.md)
