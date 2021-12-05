@@ -25,6 +25,11 @@
 - Object에 `fromEntries`메서드가 추가되어 `entries`와 반대로 2차원 배열을 객체로 만들 수 있게 되었습니다.
 - Array에 `flat`과 `flatMap`이 추가되어 중첩된 배열을 편하게 펼칠 수 있게 되었습니다.
 
+### ES2020
+
+- `BigInt`, `matchAll`, `globalThis` 가 추가 되었습니다.
+- `?.`를 이용한 Optional Chaining, `??` 를 이용한 Nullish Coalescing 방식이 추가되었습니다.
+
 ### 이벤트 흐름
 
 - 캡처링 단계, 타깃 단계, 버블링 단계 순으로 이벤트가 전파됩니다.
