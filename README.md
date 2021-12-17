@@ -17,10 +17,48 @@
 ### FE
 
 - [HTML](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/html.md)
+  - DOCTYPE
+  - section vs article
 - [CSS](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/css.md)
+  - Reset CSS
+  - Normalize CSS
+  - class vs id
 - [JS](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/js.md)
+  - ES2015(ES6)
+  - ES2016
+  - ES2017
+  - ES2018
+  - ES2019
+  - ES2020
+  - ES2021
+  - 이벤트 흐름
+  - 이벤트 위임
+  - var
+  - let, const
+  - Ajax
+  - 클로저
+  - == 과 ===
+  - 이벤트 루프
+  - new
+  - strict mode
+  - 변수 할당 과정
+  - 콜 스택
+  - 힙
+  - 가비지 컬렉션
+  - 프로토 타입
+  - 일반함수 vs 화살표함수
+  - 실행 컨텍스트
+  - 렉시컬 환경
+  - 스코프
+  - CommonJS 모듈
+  - AMD 모듈
+  - UMD 모듈
+  - ES 모듈
+  - IIFE
 - [etc.](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/etc.md)
 
 ### CS
 
 - [Network](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/network.md)
+  - TCP
+  - UDP
