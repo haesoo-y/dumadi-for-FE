@@ -60,6 +60,7 @@
 - UMD 모듈
 - ES 모듈
 - IIFE
+- 호이스팅
 
 🎸 **[etc.](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/etc.md)**
 
