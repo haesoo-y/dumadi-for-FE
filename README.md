@@ -66,7 +66,9 @@
 
 ### CS
 
-🌏 **[Network](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/network.md)**
+🌏 **[네트워크](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/network.md)**
 
 - TCP
 - UDP
+
+📂 **[자료구조](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/data-structure.md)**
