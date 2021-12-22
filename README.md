@@ -26,6 +26,7 @@
 - Reset CSS
 - Normalize CSS
 - class vs id
+- float
 
 🍯 **[JS](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/js.md)**
 
@@ -72,3 +73,5 @@
 - UDP
 
 📂 **[자료구조](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/data-structure.md)**
+
+- Array
