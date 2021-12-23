@@ -27,6 +27,7 @@
 - Normalize CSS
 - class vs id
 - float
+- float 클리어링
 
 🍯 **[JS](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/js.md)**
 
