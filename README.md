@@ -79,3 +79,6 @@
 - Linked List
 
 🪵 **[알고리즘](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/algorithm.md)**
+
+- 선택 정렬
+- 버블 정렬
