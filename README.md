@@ -63,6 +63,7 @@
 - ES 모듈
 - IIFE
 - 호이스팅
+- undefined vs null
 
 🎸 **[etc.](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/etc.md)**
 
