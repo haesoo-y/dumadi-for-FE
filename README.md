@@ -90,3 +90,4 @@
 🏗 **[운영체제](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/os.md)**
 
 - 프로세스
+- 스레드
