@@ -64,6 +64,7 @@
 - IIFE
 - 호이스팅
 - undefined vs null
+- 화살표 함수 vs 일반 함수
 
 🎸 **[etc.](https://github.com/haesoo9410/dumadi-for-FE/blob/main/FE/etc.md)**
 
@@ -81,6 +82,8 @@
 - Linked List
 - 스택 vs 큐
 - 해시테이블
+- 해시 충돌
+- 해시 충돌 해결법
 
 🪵 **[알고리즘](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/algorithm.md)**
 
