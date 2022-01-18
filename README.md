@@ -75,6 +75,8 @@
 - TCP
 - UDP
 - 3-way-handshake
+- HTTP 0.9
+- HTTP/1.0
 
 📂 **[자료구조](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/data-structure.md)**
 
