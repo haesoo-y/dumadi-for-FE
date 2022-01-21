@@ -79,6 +79,7 @@
 - HTTP/1.0
 - HTTP/1.1
 - HTTP/2.0
+- HTTP/3.0
 
 📂 **[자료구조](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/data-structure.md)**
 
