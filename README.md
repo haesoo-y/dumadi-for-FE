@@ -109,3 +109,5 @@
 🐼 **[데이터베이스](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/database.md)**
 
 - DB
+- RDB
+- NoSQL
