@@ -106,6 +106,8 @@
 - 멀티 프로세스
 - 멀티 스레드
 - 프로세스 스케줄링
+- 비선점형 스케줄링
+- 선점형 스케줄링
 
 🐼 **[데이터베이스](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/database.md)**
 
