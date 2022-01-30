@@ -114,3 +114,4 @@
 - DB
 - RDB
 - NoSQL
+- DB Normalization
