@@ -115,3 +115,6 @@
 - RDB
 - NoSQL
 - DB Normalization
+- 제 1 정규화
+- 제 2 정규화
+- 제 3 정규화
