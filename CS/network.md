@@ -39,3 +39,8 @@
 
 - UDP위에서 동작하는 구글의 QUIC프로토콜을 사용합니다.
 - 3 way handshake 와 TLS handshake를 결합하고, 패킷 손실 감지에 걸리는 시간도 감축시켰습니다.
+
+### http vs https
+
+- http는 서버 클라이언트 모델에서 데이터를 주고 받기 위한 프로토콜입니다.
+- https는 http에 암호화가 추가되었습니다.
