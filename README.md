@@ -80,6 +80,8 @@
 - HTTP/1.1
 - HTTP/2.0
 - HTTP/3.0
+- http vs https
+- https의 암호화방식
 
 📂 **[자료구조](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/data-structure.md)**
 
@@ -108,6 +110,7 @@
 - 프로세스 스케줄링
 - 비선점형 스케줄링
 - 선점형 스케줄링
+- 캐시
 
 🐼 **[데이터베이스](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/database.md)**
 
@@ -121,3 +124,4 @@
 - BCNF 정규화
 - JOIN
 - INDEX
+- INDEX에서 해시테이블을 쓰지 않는이유
