@@ -93,6 +93,7 @@
 - 해시 충돌
 - 해시 충돌 해결법
 - 트리
+- 이진트리
 
 🪵 **[알고리즘](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/algorithm.md)**
 
