@@ -82,6 +82,7 @@
 - HTTP/3.0
 - http vs https
 - https의 암호화방식
+- 실시간 통신 방식 종류
 
 📂 **[자료구조](https://github.com/haesoo9410/dumadi-for-FE/blob/main/CS/data-structure.md)**
 
